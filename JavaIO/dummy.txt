@@ -1,0 +1,7 @@
+Hii there,
+I am here to test the File .
+Hope it will work fine.
+Happy journey coders.
+Hii there,
+i am from console ,
+And trying to understand the buffer data technique...
